@@ -1,0 +1,72 @@
+h1{
+
+  font-family:'Arial Black', sans-serif;
+  font-size:50px;
+  letter-spacing:0.2em;
+  line-height:1.3em;
+  text-align:center;
+  color:450391;
+  background-color: 393E41;
+  padding:25px;
+  margin:50px;
+  }
+
+
+h2{
+  font-family:'Arial Black',sans-serif;
+  font-size:35px;
+  letter-spacing:0.2em;
+  line-height:1.3em;
+  text-align:center;
+  color:450391;
+  background-color:393E41;
+  padding:25px;margin:50px;
+
+
+}
+
+h3{
+  font-family:'Arial Black', sans-serif;
+  font-size:25px;
+  letter-spacing:0.2em;
+  line-height:1.3em;
+  text-align:center;
+  color:450391;
+  background-color:393E41;
+  padding:25px;margin:50px;
+
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.reference{
+  text-align: center;
+  font-family: sans-serif;
+  font-size:15px;
+  color:450391;
+}
+
+.quote{
+  text-align: center;
+  font-family: sans-serif;
+  font-size:20px;
+  color:450391;
+}
+
+body {  background-color:393E41;
+  width: auto;
+  padding: 25px;
+  font-family: sans-serif;
+  font-size:20px;
+  letter-spacing:0.2em;
+  line-height:1.3em;
+  text-align:left;
+  color:450391;
+  background-color:393E41;
+  padding:25px;
+  margin:50px;
+  border: solid 5px 245666:
+
+}
